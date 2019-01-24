@@ -1,0 +1,49 @@
+/* General */
+.container {
+  font-family: 'Catamaran', serif;
+  font-weight:300;
+  margin:0 auto;
+  width:100%;
+  background-image:url("veggies.png");
+}
+
+div {
+  padding:0 2% 1% 2%;
+  margin:0 5% 3% 5%;
+  background:rgba(226, 96, 96, .9);
+}
+
+/* Header, Haiku and other text */
+h1 {
+  margin:3% 0 3% 0;
+  font-size:3em;
+  font-family: 'Lobster', sans-serif;
+  font-style:italic;
+}
+
+h2 {
+  margin:0 0 3% 0;
+  font-size:1.25em;
+}
+
+/*table */
+
+table {
+  margin:0 0 3% 0;
+  border-collapse: collapse;
+  width:50%;
+  max-width:500px;
+  text-align:center;
+}
+
+table, th, td {
+  background:white;
+  border: 2px solid black;
+  margin: 0 0 4% 0;
+}
+
+
+/* Audio and Video */
+audio {
+  margin: 0 0 3% 0;
+}
